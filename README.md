@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**alissondiazsalazar-code/alissondiazsalazar-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 🌸 Hola, soy Alisson 🌸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Full Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E879F9&center=true&vCenter=true&width=700&lines=AI+Learner+%F0%9F%A4%96;HealthTech+Enthusiast+%F0%9F%8C%B8;Backend+Student+%F0%9F%92%BB;Data+Science+Journey+%F0%9F%93%8A" />
+
+</div>
+
+---
+
+## 🌷 Sobre mí
+
+✨ Profesional sanitaria explorando el mundo de la tecnología y desarrollo.
+
+💡 Me interesa:
+- Desarrollo de aplicaciones orientadas a la salud
+- Continua capacitación en el mundo de la tecnología
+- Tecnología aplicada a la optmización de procesos
+
+---
+
+## 💜 Herramientas
+
+![Python](https://img.shields.io/badge/Python-E9D5FF?style=for-the-badge&logo=python&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F9A8D4?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-F3E8FF?style=for-the-badge&logo=github&logoColor=black)
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Python
+- Machine Learning
+- GitHub
+- IA aplicada a salud
+
+---
+
+## 📫 Contacto
+
+💌 LinkedIn:
+www.linkedin.com/in/alisson-diaz-salazar
+
+</div>
+```
