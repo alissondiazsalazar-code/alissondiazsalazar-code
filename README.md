@@ -1,11 +1,11 @@
 
 <div align="center">
 
-# 🌸 Hola, soy Luz Alisson 🌸
+#  Hola, Hi, Olá 👋🏻 soy Luz Alisson, programadora y profesional sanitaria 👩🏻‍💻👩🏻‍⚕️✨🌸  
 
 💻 Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E879F9&center=true&vCenter=true&width=700&lines=AI+Learner+%F0%9F%A4%96;HealthTech+Enthusiast+%F0%9F%8C%B8;Backend+Student+%F0%9F%92%BB;Data+Science+Journey+%F0%9F%93%8A" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E879F9&center=true&vCenter=true&width=700&lines=AI+Learner+%F0%9F%A4%96;HealthTech+Enthusiast+%F0%9F%8C%B8;Backend+Frontend+Curious+%F0%9F%92%BB;Health+operations+%F0%9F%93%8A" />
 
 </div>
 
