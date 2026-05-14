@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋🏻 Hola, soy Luz Alisson 👩🏻‍⚕️👩🏻‍💻
+# 👋🏻 Hola, soy Luz Alisson 👩🏻‍💻👩🏻‍⚕️
 
 💻 Full Stack Developer | HealthTech Enthusiast
 
